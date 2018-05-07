@@ -9,4 +9,4 @@ Creating a new branch is quick AND simple.
 
 >>>>>>> featurel
 Creating a new branch is quick and simple.
-revise this page.
+revise this page, seconde.
